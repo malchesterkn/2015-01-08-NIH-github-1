@@ -8,7 +8,7 @@ output: html_document
 ## Intro
 this is *really* **really** cool stuff
 
-`print("bar")`
+`print("hello")`
 
 ## Methods
 
@@ -29,7 +29,7 @@ print(results)
 ```
 
 ```{r}
-print("hello")
+print("bar")
 ```
 
 ```{r, echo=FALSE}
