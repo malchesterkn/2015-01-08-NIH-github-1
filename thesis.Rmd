@@ -8,7 +8,7 @@ output: html_document
 ## Intro
 this is *really* **really** cool stuff
 
-`print("hello")`
+`print("bar")`
 
 ## Methods
 
