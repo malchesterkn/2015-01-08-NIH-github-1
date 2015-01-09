@@ -9,7 +9,14 @@ output: html_document
 Stuff
 
 ## Methods
-Really cool stuff
+
+- get item 1
+- get item 2
+- get item 3
+
+1. do 1
+2. do 2
+3. do 3
 
 ## Discussion
 Things
