@@ -3,4 +3,13 @@ title: "Untitled"
 output: html_document
 ---
 
-This is my thesis. 
+# Thesis
+
+## Intro
+Stuff
+
+## Methods
+Really cool stuff
+
+## Discussion
+Things
